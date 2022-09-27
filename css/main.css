@@ -11272,4 +11272,12 @@ body {
   .images {
     height: 405px;
   }
+}
+@media only screen and (max-width: 590px) {
+  .sitenav__link {
+    font-size: 12px;
+  }
+  .logo-svg {
+    width: 180px;
+  }
 }/*# sourceMappingURL=main.css.map */
